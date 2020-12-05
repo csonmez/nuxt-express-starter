@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-express-starter",
+  "version": "0.0.1",
+  "description": "NuxtJS and ExpressJS starter",
+  "author": "Cem Sönmez <cem.sonmez@outlook.com.tr>",
+  "scripts": {
+    "dev": "nuxt -p 2323",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "core-js": "^3.6.5",
+    "cors": "^2.8.5",
+    "nuxt": "^2.14.6"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
